@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "Adiciona nova funcionalidade e atualiza README"
+git push
